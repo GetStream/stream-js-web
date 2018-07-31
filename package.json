@@ -1,6 +1,6 @@
 {
   "name": "getstream-web",
-  "version": "3.19.0",
+  "version": "3.20.0-beta.1",
   "description": "A web and react-native compatible version of the getstream package",
   "main": "index.js",
   "scripts": {
