@@ -1,0 +1,27 @@
+{
+  "name": "getstream-web",
+  "version": "3.19.0",
+  "description": "A web and react-native compatible version of the getstream package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetStream/stream-js-web.git"
+  },
+  "keywords": [
+    "getstream",
+    "feed",
+    "stream"
+  ],
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Jelte Fennema",
+    "company": "Stream.io Inc"
+  },
+  "bugs": {
+    "url": "https://github.com/GetStream/stream-js-web/issues"
+  },
+  "homepage": "https://github.com/GetStream/stream-js-web#readme"
+}
